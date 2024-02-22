@@ -805,7 +805,12 @@ hr{
 
 
 
- 
+ @media(max-width:975px){
+     .navmenu{
+                    margin-right: 14px;
+     }
+ }
+         
 
 
 
