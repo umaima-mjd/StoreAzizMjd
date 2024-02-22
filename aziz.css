@@ -805,9 +805,9 @@ hr{
 
 
 
- @media(max-width:975px){
+ @media(max-width:1000px){
      .navmenu i{
-                    margin-right: 8px;
+                    margin-right: 4px;
      }
  }
          
